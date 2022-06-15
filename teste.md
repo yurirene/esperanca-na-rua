@@ -1,1 +1,3 @@
 Teste
+
+forçar a instalação
