@@ -1,3 +1,0 @@
-Teste
-
-forçar a instalação
