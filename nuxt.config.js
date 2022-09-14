@@ -49,7 +49,7 @@ export default {
   ],
 
   axios: {
-    baseURL: 'http://backend-esperanca.test/api/', // Used as fallback if no runtime config is provided
+    baseURL: process.env.BASE_URL, // Used as fallback if no runtime config is provided
   },
 
   publicRuntimeConfig: {
